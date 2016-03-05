@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4498208
+  lightness: 0.6845878
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#A7DBD8'
+    - '#F38630'
+    - '#FA6900'
+    - '#69D2E7'
+  rhythmicContrast: 0.6057348
+typography_spectrum: 0.1953405
+name: gudnes
