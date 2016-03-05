@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[gudnes]]></title>
         <description><![CDATA[gudnes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gudnes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 07:00:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 07:00:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gudnes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined595141a0-1dc5-4d9b-941f-221f08f7ee21/index.html</link>
+            <description><![CDATA[<p>If goodness grew on trees, I would be out there planting some!</p>]]></description>
+            <link>https://thegrid.ai/gudnes/595141a0-1dc5-4d9b-941f-221f08f7ee21/index.html</link>
             <guid isPermaLink="false">595141a0-1dc5-4d9b-941f-221f08f7ee21</guid>
-            <pubDate>Sat, 05 Mar 2016 07:00:04 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 07:00:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
