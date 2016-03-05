@@ -1,14 +1,28 @@
+name: gudnes
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.21654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4498208
-  lightness: 0.6845878
-  brandStrength: 1
   brandColors:
     - '#FFFFFF'
     - '#A7DBD8'
     - '#F38630'
     - '#FA6900'
     - '#69D2E7'
+  brandStrength: 1
+  lightness: 0.6845878
+  saturation: 0.4498208
   rhythmicContrast: 0.6057348
-typography_spectrum: 0.1953405
-name: gudnes
+purpose: []
